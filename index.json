@@ -16,7 +16,7 @@
             "block_head_line": 1.4,
             "heading_size": "h1",
             "subheading": "NEW_THEME_SUBTITLE_HERO",
-            "button_label": "NEW_THEME_SUBTITLE_BUTTON_TEXT",
+            "button_label": "HERO_BUTTON_TEXT",
             "link": "shopify:\/\/collections\/all",
             "link-2": "",
             "button_style_secondary": false,
